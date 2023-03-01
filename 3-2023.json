@@ -1,0 +1,16 @@
+{
+  "schedule": {
+    "firstLine": [
+      "John",
+      "Mike",
+      "Anna",
+      "Kate"
+    ],
+    "secondLine": [
+      "Mark",
+      "Tom",
+      "Lena",
+      "Mary"
+    ]
+  }
+}
